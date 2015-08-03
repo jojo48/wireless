@@ -1,0 +1,5 @@
+<hr>
+<?php
+	echo $info;
+
+?>
